@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Attend the 2013 Open Hardware Summit	</title>
+	<atom:link href="/attend/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 6, 2013 </description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:42:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Open Hardware Summit 2013 Tickets on Sale / Cooking Hacks Blog		</title>
+		<link>/attend/#comment-695</link>
+
+		<dc:creator><![CDATA[Open Hardware Summit 2013 Tickets on Sale / Cooking Hacks Blog]]></dc:creator>
+		<pubDate>Wed, 14 Aug 2013 09:51:39 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=78#comment-695</guid>
+
+					<description><![CDATA[[...] TICKETS Tickets to attend the 2013 Open Hardware Summit are available now. (OSHWA Members receive 10% off of registration, so join today!) A limited number of “Volunteer” tickets are available at reduced price, for people who are willing to volunteer some time to help us run the conference. More about tickets on the Attend page. [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] TICKETS Tickets to attend the 2013 Open Hardware Summit are available now. (OSHWA Members receive 10% off of registration, so join today!) A limited number of “Volunteer” tickets are available at reduced price, for people who are willing to volunteer some time to help us run the conference. More about tickets on the Attend page. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

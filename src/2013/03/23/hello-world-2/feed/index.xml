@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: HELLO WORLD!	</title>
+	<atom:link href="/2013/03/23/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/03/23/hello-world-2/</link>
+	<description>September 6, 2013 </description>
+	<lastBuildDate>Sat, 08 Jun 2013 21:07:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Deinis		</title>
+		<link>/2013/03/23/hello-world-2/#comment-642</link>
+
+		<dc:creator><![CDATA[Deinis]]></dc:creator>
+		<pubDate>Sat, 08 Jun 2013 21:07:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=17#comment-642</guid>
+
+					<description><![CDATA[Deseo saber si puedo asistir a vuestro evento como oyente 
+Ing en Sistema Informatico
+Tucuman Argentina
+Si me pueden dar un correo para contactarme 
+Gracias]]></description>
+			<content:encoded><![CDATA[<p>Deseo saber si puedo asistir a vuestro evento como oyente<br />
+Ing en Sistema Informatico<br />
+Tucuman Argentina<br />
+Si me pueden dar un correo para contactarme<br />
+Gracias</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

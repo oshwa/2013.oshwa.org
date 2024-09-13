@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: About	</title>
+	<atom:link href="/about/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>September 6, 2013 </description>
+	<lastBuildDate>Fri, 05 Aug 2022 02:42:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: Keynote – Ayah Bdeir, CEO and Founder of littleBits &#124; CEWeek		</title>
+		<link>/about/#comment-662</link>
+
+		<dc:creator><![CDATA[Keynote – Ayah Bdeir, CEO and Founder of littleBits &#124; CEWeek]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2013 13:30:51 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=48#comment-662</guid>
+
+					<description><![CDATA[[...] education and innovation more accessible to people around the world. She is a co-founder of the Open Hardware Summit, a TED Senior Fellow and an alumna of the MIT Media Lab. Recently Bdeir has been named no.33 [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] education and innovation more accessible to people around the world. She is a co-founder of the Open Hardware Summit, a TED Senior Fellow and an alumna of the MIT Media Lab. Recently Bdeir has been named no.33 [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
